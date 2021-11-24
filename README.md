@@ -21,7 +21,7 @@
 
 <p align="center">
    <a href="https://twitter.com/tiagolimalima57"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tiagolimalima57?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@tiagolimalima57"></a>
-   <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/bornmay/bornmay"> </a>
+   <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/tiago-lima011/tiago-lima011.github.io"> </a>
  </p>
  
  <h5 align="center">
