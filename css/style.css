@@ -1,7 +1,22 @@
-.body{
-    color: yellow;
+:root{
+    --maincolor: red;
+    --secondarycolor: white;
+    --accent: green;
+
+    --titles: arial;
+    --text: serif;
 }
 
-.h1{
-    color: green;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: var(--text)
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: var(--titles)
 }
